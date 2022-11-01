@@ -10,7 +10,7 @@ I created a page of developer meme's with Intersection Observer
 
 ## 🔗 Links
 
-https://github.com/cordellec/CPNT262-A2https://github.com/cordellec/Achievements-Round-2-Intersection-Observer
+https://github.com/cordellec/Achievements-Round-2-Intersection-Observer
 
 https://cordellec.github.io/Achievements-Round-2-Intersection-Observer/
 ## Documentation/Attributions
